@@ -1,0 +1,7 @@
+C:\Users\Filip Kolev\Desktop\7. Advanced-CSharp-Functional-Programming-Exercise-2\LinqExercise\bin\Debug\LinqExercise.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Functional Programming\Exercise\7. Advanced-CSharp-Functional-Programming-Exercise-2\LinqExercise\bin\Debug\LinqExercise.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Functional Programming\Exercise\7. Advanced-CSharp-Functional-Programming-Exercise-2\LinqExercise\bin\Debug\LinqExercise.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Functional Programming\Exercise\7. Advanced-CSharp-Functional-Programming-Exercise-2\LinqExercise\bin\Debug\LinqExercise.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Functional Programming\Exercise\7. Advanced-CSharp-Functional-Programming-Exercise-2\LinqExercise\obj\Debug\LinqExercise.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Functional Programming\Exercise\7. Advanced-CSharp-Functional-Programming-Exercise-2\LinqExercise\obj\Debug\LinqExercise.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Functional Programming\Exercise\7. Advanced-CSharp-Functional-Programming-Exercise-2\LinqExercise\obj\Debug\LinqExercise.pdb

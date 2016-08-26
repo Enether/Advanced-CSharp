@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\15.TheNumbers\bin\Debug\15.TheNumbers.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\15.TheNumbers\bin\Debug\15.TheNumbers.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\15.TheNumbers\bin\Debug\15.TheNumbers.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\15.TheNumbers\obj\Debug\15.TheNumbers.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\15.TheNumbers\obj\Debug\15.TheNumbers.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\15.TheNumbers\obj\Debug\15.TheNumbers.pdb

@@ -1,0 +1,5 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\06.CountSymbols\bin\Debug\06.CountSymbols.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\06.CountSymbols\bin\Debug\06.CountSymbols.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\06.CountSymbols\bin\Debug\06.CountSymbols.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\06.CountSymbols\obj\Debug\06.CountSymbols.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\06.CountSymbols\obj\Debug\06.CountSymbols.pdb

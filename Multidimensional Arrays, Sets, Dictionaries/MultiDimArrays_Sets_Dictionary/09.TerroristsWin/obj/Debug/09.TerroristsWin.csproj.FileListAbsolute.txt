@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\09.TerroristsWin\bin\Debug\09.TerroristsWin.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\09.TerroristsWin\bin\Debug\09.TerroristsWin.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\09.TerroristsWin\bin\Debug\09.TerroristsWin.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\09.TerroristsWin\obj\Debug\09.TerroristsWin.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\09.TerroristsWin\obj\Debug\09.TerroristsWin.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\09.TerroristsWin\obj\Debug\09.TerroristsWin.pdb

@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exam\Exam\bin\Debug\Exam.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exam\Exam\bin\Debug\Exam.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exam\Exam\bin\Debug\Exam.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exam\Exam\obj\Debug\01.CommandInterpreter.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exam\Exam\obj\Debug\Exam.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exam\Exam\obj\Debug\Exam.pdb

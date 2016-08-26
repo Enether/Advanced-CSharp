@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exam\04.OlympicsAreComing\bin\Debug\04.OlympicsAreComing.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exam\04.OlympicsAreComing\bin\Debug\04.OlympicsAreComing.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exam\04.OlympicsAreComing\bin\Debug\04.OlympicsAreComing.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exam\04.OlympicsAreComing\obj\Debug\04.OlympicsAreComing.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exam\04.OlympicsAreComing\obj\Debug\04.OlympicsAreComing.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exam\04.OlympicsAreComing\obj\Debug\04.OlympicsAreComing.pdb

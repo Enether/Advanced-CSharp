@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Algorithms Lab\Algorithms\05.LargestRectangle\bin\Debug\05.LargestRectangle.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Algorithms Lab\Algorithms\05.LargestRectangle\bin\Debug\05.LargestRectangle.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Algorithms Lab\Algorithms\05.LargestRectangle\bin\Debug\05.LargestRectangle.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Algorithms Lab\Algorithms\05.LargestRectangle\obj\Debug\05.LargestRectangle.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Algorithms Lab\Algorithms\05.LargestRectangle\obj\Debug\05.LargestRectangle.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Algorithms Lab\Algorithms\05.LargestRectangle\obj\Debug\05.LargestRectangle.pdb

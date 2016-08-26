@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\05.SemanticHTML\bin\Debug\05.SemanticHTML.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\05.SemanticHTML\bin\Debug\05.SemanticHTML.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\05.SemanticHTML\bin\Debug\05.SemanticHTML.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\05.SemanticHTML\obj\Debug\05.SemanticHTML.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\05.SemanticHTML\obj\Debug\05.SemanticHTML.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\05.SemanticHTML\obj\Debug\05.SemanticHTML.pdb

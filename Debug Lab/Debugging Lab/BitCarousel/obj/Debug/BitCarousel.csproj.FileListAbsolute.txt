@@ -1,0 +1,5 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Debug Lab\Debugging Lab\BitCarousel\bin\Debug\BitCarousel.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Debug Lab\Debugging Lab\BitCarousel\bin\Debug\BitCarousel.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Debug Lab\Debugging Lab\BitCarousel\bin\Debug\BitCarousel.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Debug Lab\Debugging Lab\BitCarousel\obj\Debug\BitCarousel.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Debug Lab\Debugging Lab\BitCarousel\obj\Debug\BitCarousel.pdb

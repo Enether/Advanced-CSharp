@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\07.VladkosNotebook\bin\Debug\07.VladkosNotebook.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\07.VladkosNotebook\bin\Debug\07.VladkosNotebook.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\07.VladkosNotebook\bin\Debug\07.VladkosNotebook.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\07.VladkosNotebook\obj\Debug\07.VladkosNotebook.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\07.VladkosNotebook\obj\Debug\07.VladkosNotebook.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\07.VladkosNotebook\obj\Debug\07.VladkosNotebook.pdb

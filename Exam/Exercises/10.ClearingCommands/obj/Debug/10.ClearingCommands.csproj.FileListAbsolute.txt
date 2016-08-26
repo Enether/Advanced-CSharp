@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\10.ClearingCommands\bin\Debug\10.ClearingCommands.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\10.ClearingCommands\bin\Debug\10.ClearingCommands.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\10.ClearingCommands\bin\Debug\10.ClearingCommands.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\10.ClearingCommands\obj\Debug\10.ClearingCommands.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\10.ClearingCommands\obj\Debug\10.ClearingCommands.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\10.ClearingCommands\obj\Debug\10.ClearingCommands.pdb

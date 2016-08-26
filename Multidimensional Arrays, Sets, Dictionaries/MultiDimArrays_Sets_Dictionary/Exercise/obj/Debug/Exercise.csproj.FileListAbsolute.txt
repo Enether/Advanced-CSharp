@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\Exercise\bin\Debug\Exercise.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\Exercise\bin\Debug\Exercise.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\Exercise\bin\Debug\Exercise.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\Exercise\obj\Debug\Exercise.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\Exercise\obj\Debug\Exercise.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\Exercise\obj\Debug\Exercise.pdb

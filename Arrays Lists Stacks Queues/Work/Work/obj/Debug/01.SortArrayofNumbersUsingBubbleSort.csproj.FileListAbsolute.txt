@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\Work\bin\Debug\Work.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\Work\bin\Debug\Work.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\Work\bin\Debug\Work.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\Work\obj\Debug\01.SortArrayofNumbersUsingBubbleSort.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\Work\obj\Debug\Work.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\Work\obj\Debug\Work.pdb

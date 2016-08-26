@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Debug Lab\Debugging Lab\BePositive\bin\Debug\BePositive.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Debug Lab\Debugging Lab\BePositive\bin\Debug\BePositive.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Debug Lab\Debugging Lab\BePositive\bin\Debug\BePositive.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Debug Lab\Debugging Lab\BePositive\obj\Debug\BePositive.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Debug Lab\Debugging Lab\BePositive\obj\Debug\BePositive.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Debug Lab\Debugging Lab\BePositive\obj\Debug\BePositive.pdb

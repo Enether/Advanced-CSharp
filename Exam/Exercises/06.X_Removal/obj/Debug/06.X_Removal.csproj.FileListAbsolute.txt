@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\06.X_Removal\bin\Debug\06.X_Removal.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\06.X_Removal\bin\Debug\06.X_Removal.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\06.X_Removal\bin\Debug\06.X_Removal.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\06.X_Removal\obj\Debug\06.X_Removal.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\06.X_Removal\obj\Debug\06.X_Removal.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\06.X_Removal\obj\Debug\06.X_Removal.pdb

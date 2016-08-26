@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exam\02.TextTransformer\bin\Debug\02.TextTransformer.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exam\02.TextTransformer\bin\Debug\02.TextTransformer.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exam\02.TextTransformer\bin\Debug\02.TextTransformer.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exam\02.TextTransformer\obj\Debug\02.TextTransformer.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exam\02.TextTransformer\obj\Debug\02.TextTransformer.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exam\02.TextTransformer\obj\Debug\02.TextTransformer.csprojResolveAssemblyReference.cache

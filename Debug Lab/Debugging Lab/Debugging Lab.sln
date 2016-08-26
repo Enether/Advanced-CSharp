@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BePositive", "BePositive\BePositive.csproj", "{73BE9170-2D4D-44CA-83A7-41324989931A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayTest", "ArrayTest\ArrayTest.csproj", "{66F60CD7-D783-4CED-8D08-935DBD75DCD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Substring", "Substring\Substring.csproj", "{C53EFC21-AE5D-4BE8-87CD-FEEDDC777606}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitCarousel", "BitCarousel\BitCarousel.csproj", "{2763E59E-E750-4F48-B51C-3406AF172079}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73BE9170-2D4D-44CA-83A7-41324989931A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BE9170-2D4D-44CA-83A7-41324989931A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BE9170-2D4D-44CA-83A7-41324989931A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BE9170-2D4D-44CA-83A7-41324989931A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66F60CD7-D783-4CED-8D08-935DBD75DCD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F60CD7-D783-4CED-8D08-935DBD75DCD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F60CD7-D783-4CED-8D08-935DBD75DCD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F60CD7-D783-4CED-8D08-935DBD75DCD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C53EFC21-AE5D-4BE8-87CD-FEEDDC777606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C53EFC21-AE5D-4BE8-87CD-FEEDDC777606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C53EFC21-AE5D-4BE8-87CD-FEEDDC777606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C53EFC21-AE5D-4BE8-87CD-FEEDDC777606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2763E59E-E750-4F48-B51C-3406AF172079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2763E59E-E750-4F48-B51C-3406AF172079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2763E59E-E750-4F48-B51C-3406AF172079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2763E59E-E750-4F48-B51C-3406AF172079}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

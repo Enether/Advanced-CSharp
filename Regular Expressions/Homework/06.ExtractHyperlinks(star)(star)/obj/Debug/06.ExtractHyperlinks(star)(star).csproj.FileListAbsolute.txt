@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\06.ExtractHyperlinks(star)(star)\bin\Debug\06.ExtractHyperlinks(star)(star).exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\06.ExtractHyperlinks(star)(star)\bin\Debug\06.ExtractHyperlinks(star)(star).exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\06.ExtractHyperlinks(star)(star)\bin\Debug\06.ExtractHyperlinks(star)(star).pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\06.ExtractHyperlinks(star)(star)\obj\Debug\06.ExtractHyperlinks(star)(star).csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\06.ExtractHyperlinks(star)(star)\obj\Debug\06.ExtractHyperlinks(star)(star).exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\06.ExtractHyperlinks(star)(star)\obj\Debug\06.ExtractHyperlinks(star)(star).pdb

@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Strings and Text Processing\Homework\06.Palindromes\bin\Debug\06.Palindromes.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Strings and Text Processing\Homework\06.Palindromes\bin\Debug\06.Palindromes.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Strings and Text Processing\Homework\06.Palindromes\bin\Debug\06.Palindromes.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Strings and Text Processing\Homework\06.Palindromes\obj\Debug\06.Palindromes.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Strings and Text Processing\Homework\06.Palindromes\obj\Debug\06.Palindromes.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Strings and Text Processing\Homework\06.Palindromes\obj\Debug\06.Palindromes.csprojResolveAssemblyReference.cache

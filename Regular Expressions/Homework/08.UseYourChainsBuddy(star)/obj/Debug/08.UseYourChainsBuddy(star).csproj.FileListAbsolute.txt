@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\08.UseYourChainsBuddy(star)\bin\Debug\08.UseYourChainsBuddy(star).exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\08.UseYourChainsBuddy(star)\bin\Debug\08.UseYourChainsBuddy(star).exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\08.UseYourChainsBuddy(star)\bin\Debug\08.UseYourChainsBuddy(star).pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\08.UseYourChainsBuddy(star)\obj\Debug\08.UseYourChainsBuddy(star).csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\08.UseYourChainsBuddy(star)\obj\Debug\08.UseYourChainsBuddy(star).exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\08.UseYourChainsBuddy(star)\obj\Debug\08.UseYourChainsBuddy(star).pdb

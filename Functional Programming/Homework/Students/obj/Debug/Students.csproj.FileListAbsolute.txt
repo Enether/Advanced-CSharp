@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Functional Programming\Homework\Students\bin\Debug\Students.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Functional Programming\Homework\Students\bin\Debug\Students.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Functional Programming\Homework\Students\bin\Debug\Students.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Functional Programming\Homework\Students\obj\Debug\Students.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Functional Programming\Homework\Students\obj\Debug\Students.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Functional Programming\Homework\Students\obj\Debug\Students.pdb

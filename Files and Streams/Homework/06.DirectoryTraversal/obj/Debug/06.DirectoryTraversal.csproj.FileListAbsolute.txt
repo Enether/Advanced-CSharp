@@ -1,0 +1,5 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Homework\06.DirectoryTraversal\bin\Debug\06.DirectoryTraversal.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Homework\06.DirectoryTraversal\bin\Debug\06.DirectoryTraversal.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Homework\06.DirectoryTraversal\bin\Debug\06.DirectoryTraversal.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Homework\06.DirectoryTraversal\obj\Debug\06.DirectoryTraversal.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Homework\06.DirectoryTraversal\obj\Debug\06.DirectoryTraversal.pdb

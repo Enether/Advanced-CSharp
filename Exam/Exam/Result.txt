@@ -1,0 +1,4 @@
+Technically got 285/400, I got 0/100 on one exercise because of a simple regex mistake that should have been
+\s{2,} and not \s+. I don't know if I would have figured that on my own in a real exam, I did not want to delve
+any further at home and that's why I quickly ran over the tests and solutions.
+If I  had got that I would have had had  385/400 which is great

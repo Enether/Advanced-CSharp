@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\09.UppercaseWords\bin\Debug\09.UppercaseWords.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\09.UppercaseWords\bin\Debug\09.UppercaseWords.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\09.UppercaseWords\bin\Debug\09.UppercaseWords.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\09.UppercaseWords\obj\Debug\09.UppercaseWords.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\09.UppercaseWords\obj\Debug\09.UppercaseWords.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\09.UppercaseWords\obj\Debug\09.UppercaseWords.pdb

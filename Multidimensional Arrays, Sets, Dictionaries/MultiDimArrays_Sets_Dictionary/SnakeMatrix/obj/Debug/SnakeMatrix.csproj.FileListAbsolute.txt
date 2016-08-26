@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\SnakeMatrix\bin\Debug\SnakeMatrix.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\SnakeMatrix\bin\Debug\SnakeMatrix.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\SnakeMatrix\bin\Debug\SnakeMatrix.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\SnakeMatrix\obj\Debug\SnakeMatrix.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\SnakeMatrix\obj\Debug\SnakeMatrix.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\SnakeMatrix\obj\Debug\SnakeMatrix.pdb

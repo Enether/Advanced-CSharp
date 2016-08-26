@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Strings and Text Processing\Exercise\CensorYourEmailAddress\bin\Debug\CensorYourEmailAddress.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Strings and Text Processing\Exercise\CensorYourEmailAddress\obj\Debug\CensorYourEmailAddress.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Strings and Text Processing\Exercise\CensorYourEmailAddress\bin\Debug\CensorYourEmailAddress.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Strings and Text Processing\Exercise\CensorYourEmailAddress\bin\Debug\CensorYourEmailAddress.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Strings and Text Processing\Exercise\CensorYourEmailAddress\obj\Debug\CensorYourEmailAddress.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Strings and Text Processing\Exercise\CensorYourEmailAddress\obj\Debug\CensorYourEmailAddress.pdb

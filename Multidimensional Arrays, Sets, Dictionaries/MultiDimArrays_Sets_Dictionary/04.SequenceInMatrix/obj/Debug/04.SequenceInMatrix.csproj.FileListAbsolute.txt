@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\04.SequenceInMatrix\bin\Debug\04.SequenceInMatrix.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\04.SequenceInMatrix\bin\Debug\04.SequenceInMatrix.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\04.SequenceInMatrix\bin\Debug\04.SequenceInMatrix.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\04.SequenceInMatrix\obj\Debug\04.SequenceInMatrix.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\04.SequenceInMatrix\obj\Debug\04.SequenceInMatrix.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Multidimensional Arrays, Sets, Dictionaries\MultiDimArrays_Sets_Dictionary\04.SequenceInMatrix\obj\Debug\04.SequenceInMatrix.pdb

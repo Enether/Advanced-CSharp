@@ -1,0 +1,5 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Debug Lab\Debugging Lab\Substring\bin\Debug\Substring.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Debug Lab\Debugging Lab\Substring\bin\Debug\Substring.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Debug Lab\Debugging Lab\Substring\bin\Debug\Substring.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Debug Lab\Debugging Lab\Substring\obj\Debug\Substring.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Debug Lab\Debugging Lab\Substring\obj\Debug\Substring.pdb

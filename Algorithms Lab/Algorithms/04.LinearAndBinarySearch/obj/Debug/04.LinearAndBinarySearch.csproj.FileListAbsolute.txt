@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Algorithms Lab\Algorithms\04.LinearAndBinarySearch\bin\Debug\04.LinearAndBinarySearch.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Algorithms Lab\Algorithms\04.LinearAndBinarySearch\bin\Debug\04.LinearAndBinarySearch.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Algorithms Lab\Algorithms\04.LinearAndBinarySearch\bin\Debug\04.LinearAndBinarySearch.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Algorithms Lab\Algorithms\04.LinearAndBinarySearch\obj\Debug\04.LinearAndBinarySearch.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Algorithms Lab\Algorithms\04.LinearAndBinarySearch\obj\Debug\04.LinearAndBinarySearch.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Algorithms Lab\Algorithms\04.LinearAndBinarySearch\obj\Debug\04.LinearAndBinarySearch.pdb

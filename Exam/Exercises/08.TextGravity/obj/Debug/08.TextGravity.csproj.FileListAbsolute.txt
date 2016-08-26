@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\08.TextGravity\bin\Debug\08.TextGravity.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\08.TextGravity\bin\Debug\08.TextGravity.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\08.TextGravity\bin\Debug\08.TextGravity.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\08.TextGravity\obj\Debug\08.TextGravity.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\08.TextGravity\obj\Debug\08.TextGravity.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\08.TextGravity\obj\Debug\08.TextGravity.pdb

@@ -1,0 +1,5 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\02.JoinLists\bin\Debug\02.JoinLists.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\02.JoinLists\bin\Debug\02.JoinLists.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\02.JoinLists\bin\Debug\02.JoinLists.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\02.JoinLists\obj\Debug\02.JoinLists.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\02.JoinLists\obj\Debug\02.JoinLists.pdb

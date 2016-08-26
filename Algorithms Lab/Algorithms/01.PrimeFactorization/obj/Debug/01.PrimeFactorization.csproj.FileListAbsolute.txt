@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Algorithms Lab\Algorithms\01.PrimeFactorization\bin\Debug\01.PrimeFactorization.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Algorithms Lab\Algorithms\01.PrimeFactorization\bin\Debug\01.PrimeFactorization.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Algorithms Lab\Algorithms\01.PrimeFactorization\bin\Debug\01.PrimeFactorization.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Algorithms Lab\Algorithms\01.PrimeFactorization\obj\Debug\01.PrimeFactorization.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Algorithms Lab\Algorithms\01.PrimeFactorization\obj\Debug\01.PrimeFactorization.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Algorithms Lab\Algorithms\01.PrimeFactorization\obj\Debug\01.PrimeFactorization.pdb

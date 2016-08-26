@@ -1,0 +1,5 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Debug Lab\Debugging Lab\ArrayTest\bin\Debug\ArrayTest.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Debug Lab\Debugging Lab\ArrayTest\bin\Debug\ArrayTest.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Debug Lab\Debugging Lab\ArrayTest\bin\Debug\ArrayTest.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Debug Lab\Debugging Lab\ArrayTest\obj\Debug\ArrayTest.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Debug Lab\Debugging Lab\ArrayTest\obj\Debug\ArrayTest.pdb

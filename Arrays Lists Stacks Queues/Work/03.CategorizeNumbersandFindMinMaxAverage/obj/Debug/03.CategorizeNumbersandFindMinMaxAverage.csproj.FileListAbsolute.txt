@@ -1,0 +1,5 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\03.CategorizeNumbersandFindMinMaxAverage\bin\Debug\03.CategorizeNumbersandFindMinMaxAverage.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\03.CategorizeNumbersandFindMinMaxAverage\bin\Debug\03.CategorizeNumbersandFindMinMaxAverage.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\03.CategorizeNumbersandFindMinMaxAverage\bin\Debug\03.CategorizeNumbersandFindMinMaxAverage.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\03.CategorizeNumbersandFindMinMaxAverage\obj\Debug\03.CategorizeNumbersandFindMinMaxAverage.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\03.CategorizeNumbersandFindMinMaxAverage\obj\Debug\03.CategorizeNumbersandFindMinMaxAverage.pdb

@@ -1,0 +1,5 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Strings and Text Processing\Homework\07.LettersChangeNumbers(star)\bin\Debug\07.LettersChangeNumbers(star).exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Strings and Text Processing\Homework\07.LettersChangeNumbers(star)\bin\Debug\07.LettersChangeNumbers(star).exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Strings and Text Processing\Homework\07.LettersChangeNumbers(star)\bin\Debug\07.LettersChangeNumbers(star).pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Strings and Text Processing\Homework\07.LettersChangeNumbers(star)\obj\Debug\07.LettersChangeNumbers(star).exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Strings and Text Processing\Homework\07.LettersChangeNumbers(star)\obj\Debug\07.LettersChangeNumbers(star).pdb

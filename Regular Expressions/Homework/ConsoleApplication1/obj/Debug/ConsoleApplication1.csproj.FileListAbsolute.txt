@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

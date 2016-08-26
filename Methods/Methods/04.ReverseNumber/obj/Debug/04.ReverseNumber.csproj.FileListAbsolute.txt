@@ -1,0 +1,5 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Methods\Methods\04.ReverseNumber\bin\Debug\04.ReverseNumber.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Methods\Methods\04.ReverseNumber\bin\Debug\04.ReverseNumber.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Methods\Methods\04.ReverseNumber\bin\Debug\04.ReverseNumber.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Methods\Methods\04.ReverseNumber\obj\Debug\04.ReverseNumber.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Methods\Methods\04.ReverseNumber\obj\Debug\04.ReverseNumber.pdb

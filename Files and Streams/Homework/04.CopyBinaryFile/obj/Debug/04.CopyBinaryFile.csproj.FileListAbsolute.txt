@@ -1,0 +1,5 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Homework\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Homework\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Homework\04.CopyBinaryFile\bin\Debug\04.CopyBinaryFile.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Homework\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Homework\04.CopyBinaryFile\obj\Debug\04.CopyBinaryFile.pdb

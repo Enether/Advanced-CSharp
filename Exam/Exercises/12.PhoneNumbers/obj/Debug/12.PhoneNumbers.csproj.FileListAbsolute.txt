@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\12.PhoneNumbers\bin\Debug\12.PhoneNumbers.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\12.PhoneNumbers\bin\Debug\12.PhoneNumbers.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\12.PhoneNumbers\bin\Debug\12.PhoneNumbers.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\12.PhoneNumbers\obj\Debug\12.PhoneNumbers.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\12.PhoneNumbers\obj\Debug\12.PhoneNumbers.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\12.PhoneNumbers\obj\Debug\12.PhoneNumbers.pdb

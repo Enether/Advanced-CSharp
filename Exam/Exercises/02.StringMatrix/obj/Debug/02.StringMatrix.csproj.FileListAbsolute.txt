@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\02.StringMatrix\bin\Debug\02.StringMatrix.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\02.StringMatrix\bin\Debug\02.StringMatrix.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\02.StringMatrix\bin\Debug\02.StringMatrix.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\02.StringMatrix\obj\Debug\02.StringMatrix.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\02.StringMatrix\obj\Debug\02.StringMatrix.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\02.StringMatrix\obj\Debug\02.StringMatrix.pdb

@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\01.Plus_Remove\bin\Debug\01.Plus_Remove.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\01.Plus_Remove\bin\Debug\01.Plus_Remove.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\01.Plus_Remove\bin\Debug\01.Plus_Remove.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\01.Plus_Remove\obj\Debug\01.Plus_Remove.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\01.Plus_Remove\obj\Debug\01.Plus_Remove.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\01.Plus_Remove\obj\Debug\01.Plus_Remove.pdb

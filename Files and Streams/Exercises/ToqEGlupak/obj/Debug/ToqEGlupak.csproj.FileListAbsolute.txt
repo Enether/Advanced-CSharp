@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Exercises\ToqEGlupak\bin\Debug\ToqEGlupak.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Exercises\ToqEGlupak\bin\Debug\ToqEGlupak.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Exercises\ToqEGlupak\bin\Debug\ToqEGlupak.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Exercises\ToqEGlupak\obj\Debug\ToqEGlupak.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Exercises\ToqEGlupak\obj\Debug\ToqEGlupak.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Exercises\ToqEGlupak\obj\Debug\ToqEGlupak.pdb

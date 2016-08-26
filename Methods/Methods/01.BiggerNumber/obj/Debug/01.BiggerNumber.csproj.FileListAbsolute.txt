@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Methods\Methods\01.BiggerNumber\bin\Debug\01.BiggerNumber.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Methods\Methods\01.BiggerNumber\bin\Debug\01.BiggerNumber.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Methods\Methods\01.BiggerNumber\bin\Debug\01.BiggerNumber.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Methods\Methods\01.BiggerNumber\obj\Debug\01.BiggerNumber.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Methods\Methods\01.BiggerNumber\obj\Debug\01.BiggerNumber.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Methods\Methods\01.BiggerNumber\obj\Debug\01.BiggerNumber.pdb

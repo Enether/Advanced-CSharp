@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Homework\aaa\bin\Debug\aaa.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Homework\aaa\bin\Debug\aaa.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Homework\aaa\bin\Debug\aaa.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Homework\aaa\obj\Debug\aaa.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Homework\aaa\obj\Debug\aaa.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Homework\aaa\obj\Debug\aaa.pdb

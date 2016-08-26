@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Functional Programming\Exercise\01.ExtendTheStringBuilderClass\bin\Debug\01.ExtendTheStringBuilderClass.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Functional Programming\Exercise\01.ExtendTheStringBuilderClass\obj\Debug\01.ExtendTheStringBuilderClass.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Functional Programming\Exercise\01.ExtendTheStringBuilderClass\bin\Debug\01.ExtendTheStringBuilderClass.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Functional Programming\Exercise\01.ExtendTheStringBuilderClass\bin\Debug\01.ExtendTheStringBuilderClass.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Functional Programming\Exercise\01.ExtendTheStringBuilderClass\obj\Debug\01.ExtendTheStringBuilderClass.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Functional Programming\Exercise\01.ExtendTheStringBuilderClass\obj\Debug\01.ExtendTheStringBuilderClass.pdb

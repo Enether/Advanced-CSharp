@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\02.SortArrayOfNumbersUsingSelectionShort\bin\Debug\02.SortArrayOfNumbersUsingSelectionShort.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\02.SortArrayOfNumbersUsingSelectionShort\bin\Debug\02.SortArrayOfNumbersUsingSelectionShort.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\02.SortArrayOfNumbersUsingSelectionShort\bin\Debug\02.SortArrayOfNumbersUsingSelectionShort.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\02.SortArrayOfNumbersUsingSelectionShort\obj\Debug\02.SortArrayOfNumbersUsingSelectionShort.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\02.SortArrayOfNumbersUsingSelectionShort\obj\Debug\02.SortArrayOfNumbersUsingSelectionShort.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\02.SortArrayOfNumbersUsingSelectionShort\obj\Debug\02.SortArrayOfNumbersUsingSelectionShort.csprojResolveAssemblyReference.cache

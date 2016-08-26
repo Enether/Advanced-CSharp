@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exam\02.TargetPractice\bin\Debug\02.TargetPractice.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exam\02.TargetPractice\bin\Debug\02.TargetPractice.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exam\02.TargetPractice\bin\Debug\02.TargetPractice.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exam\02.TargetPractice\obj\Debug\02.TargetPractice.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exam\02.TargetPractice\obj\Debug\02.TargetPractice.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exam\02.TargetPractice\obj\Debug\02.TargetPractice.pdb

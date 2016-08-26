@@ -1,0 +1,5 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Algorithms Lab\Algorithms\02.SieveOfEratosthenes\bin\Debug\02.SieveOfEratosthenes.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Algorithms Lab\Algorithms\02.SieveOfEratosthenes\bin\Debug\02.SieveOfEratosthenes.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Algorithms Lab\Algorithms\02.SieveOfEratosthenes\bin\Debug\02.SieveOfEratosthenes.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Algorithms Lab\Algorithms\02.SieveOfEratosthenes\obj\Debug\02.SieveOfEratosthenes.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Algorithms Lab\Algorithms\02.SieveOfEratosthenes\obj\Debug\02.SieveOfEratosthenes.pdb

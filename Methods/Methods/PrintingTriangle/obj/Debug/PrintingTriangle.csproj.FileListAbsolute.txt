@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Methods\Methods\PrintingTriangle\bin\Debug\PrintingTriangle.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Methods\Methods\PrintingTriangle\bin\Debug\PrintingTriangle.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Methods\Methods\PrintingTriangle\bin\Debug\PrintingTriangle.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Methods\Methods\PrintingTriangle\obj\Debug\PrintingTriangle.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Methods\Methods\PrintingTriangle\obj\Debug\PrintingTriangle.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Methods\Methods\PrintingTriangle\obj\Debug\PrintingTriangle.pdb

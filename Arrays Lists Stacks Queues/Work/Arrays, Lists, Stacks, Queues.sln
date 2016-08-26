@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SortArrayofNumbersUsingBubbleSort", "Work\01.SortArrayofNumbersUsingBubbleSort.csproj", "{1EBD2D27-200E-47FF-B1AA-E6FCA19167B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercises", "Exercises", "{8CDFF0C0-D679-43B5-997A-697BF5C44D99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.JoinLists", "02.JoinLists\02.JoinLists.csproj", "{4B3DDD54-AD2F-4D5C-92B3-E1B4B4609078}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homework", "Homework", "{5A2F71AB-DD1B-4AB9-9609-C272F191A2E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SortArrayOfNumbers", "01.SortArrayOfNumbers\01.SortArrayOfNumbers.csproj", "{80E7F28C-720B-421B-9A20-53A74F22891A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SortArrayOfNumbersUsingSelectionShort", "02.SortArrayOfNumbersUsingSelectionShort\02.SortArrayOfNumbersUsingSelectionShort.csproj", "{66B9DB60-35AD-409B-9F30-F283166B434B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CategorizeNumbersandFindMinMaxAverage", "03.CategorizeNumbersandFindMinMaxAverage\03.CategorizeNumbersandFindMinMaxAverage.csproj", "{B079BEE3-F1FD-4B90-8648-B90305F0CF0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SequenceOfEqualStrings", "04.SequenceOfEqualStrings\04.SequenceOfEqualStrings.csproj", "{CFA55173-ED30-4C69-994A-2D8065975BAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.LongestIncreasingSequence", "05.LongestIncreasingSequence\05.LongestIncreasingSequence.csproj", "{C2DD1572-6315-47B2-9B6A-D5832A9FF78E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.SubsetSums + sorted commented out", "Subset Sums\06.SubsetSums + sorted commented out.csproj", "{6F5F6FA7-6E38-4078-BB38-D0858413FAF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam.LegoBlocks", "Exam.LegoBlocks\Exam.LegoBlocks.csproj", "{D264E7E7-9C18-4DA6-81BC-7392D4EBD515}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EBD2D27-200E-47FF-B1AA-E6FCA19167B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EBD2D27-200E-47FF-B1AA-E6FCA19167B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EBD2D27-200E-47FF-B1AA-E6FCA19167B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EBD2D27-200E-47FF-B1AA-E6FCA19167B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B3DDD54-AD2F-4D5C-92B3-E1B4B4609078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B3DDD54-AD2F-4D5C-92B3-E1B4B4609078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B3DDD54-AD2F-4D5C-92B3-E1B4B4609078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B3DDD54-AD2F-4D5C-92B3-E1B4B4609078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E7F28C-720B-421B-9A20-53A74F22891A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E7F28C-720B-421B-9A20-53A74F22891A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E7F28C-720B-421B-9A20-53A74F22891A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E7F28C-720B-421B-9A20-53A74F22891A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66B9DB60-35AD-409B-9F30-F283166B434B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66B9DB60-35AD-409B-9F30-F283166B434B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66B9DB60-35AD-409B-9F30-F283166B434B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66B9DB60-35AD-409B-9F30-F283166B434B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B079BEE3-F1FD-4B90-8648-B90305F0CF0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B079BEE3-F1FD-4B90-8648-B90305F0CF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B079BEE3-F1FD-4B90-8648-B90305F0CF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B079BEE3-F1FD-4B90-8648-B90305F0CF0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFA55173-ED30-4C69-994A-2D8065975BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFA55173-ED30-4C69-994A-2D8065975BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFA55173-ED30-4C69-994A-2D8065975BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFA55173-ED30-4C69-994A-2D8065975BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2DD1572-6315-47B2-9B6A-D5832A9FF78E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2DD1572-6315-47B2-9B6A-D5832A9FF78E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2DD1572-6315-47B2-9B6A-D5832A9FF78E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2DD1572-6315-47B2-9B6A-D5832A9FF78E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F5F6FA7-6E38-4078-BB38-D0858413FAF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F5F6FA7-6E38-4078-BB38-D0858413FAF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F5F6FA7-6E38-4078-BB38-D0858413FAF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F5F6FA7-6E38-4078-BB38-D0858413FAF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D264E7E7-9C18-4DA6-81BC-7392D4EBD515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D264E7E7-9C18-4DA6-81BC-7392D4EBD515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D264E7E7-9C18-4DA6-81BC-7392D4EBD515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D264E7E7-9C18-4DA6-81BC-7392D4EBD515}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1EBD2D27-200E-47FF-B1AA-E6FCA19167B0} = {8CDFF0C0-D679-43B5-997A-697BF5C44D99}
+		{4B3DDD54-AD2F-4D5C-92B3-E1B4B4609078} = {8CDFF0C0-D679-43B5-997A-697BF5C44D99}
+		{80E7F28C-720B-421B-9A20-53A74F22891A} = {5A2F71AB-DD1B-4AB9-9609-C272F191A2E2}
+		{66B9DB60-35AD-409B-9F30-F283166B434B} = {5A2F71AB-DD1B-4AB9-9609-C272F191A2E2}
+		{B079BEE3-F1FD-4B90-8648-B90305F0CF0C} = {5A2F71AB-DD1B-4AB9-9609-C272F191A2E2}
+		{CFA55173-ED30-4C69-994A-2D8065975BAA} = {5A2F71AB-DD1B-4AB9-9609-C272F191A2E2}
+		{C2DD1572-6315-47B2-9B6A-D5832A9FF78E} = {5A2F71AB-DD1B-4AB9-9609-C272F191A2E2}
+		{6F5F6FA7-6E38-4078-BB38-D0858413FAF4} = {5A2F71AB-DD1B-4AB9-9609-C272F191A2E2}
+		{D264E7E7-9C18-4DA6-81BC-7392D4EBD515} = {5A2F71AB-DD1B-4AB9-9609-C272F191A2E2}
+	EndGlobalSection
+EndGlobal

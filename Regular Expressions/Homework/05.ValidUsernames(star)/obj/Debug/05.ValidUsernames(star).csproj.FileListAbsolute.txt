@@ -1,0 +1,5 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\05.ValidUsernames(star)\bin\Debug\05.ValidUsernames(star).exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\05.ValidUsernames(star)\bin\Debug\05.ValidUsernames(star).exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\05.ValidUsernames(star)\bin\Debug\05.ValidUsernames(star).pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\05.ValidUsernames(star)\obj\Debug\05.ValidUsernames(star).exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\05.ValidUsernames(star)\obj\Debug\05.ValidUsernames(star).pdb

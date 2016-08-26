@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\14.MatrixShuffle\bin\Debug\14.MatrixShuffle.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\14.MatrixShuffle\bin\Debug\14.MatrixShuffle.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\14.MatrixShuffle\bin\Debug\14.MatrixShuffle.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\14.MatrixShuffle\obj\Debug\14.MatrixShuffle.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\14.MatrixShuffle\obj\Debug\14.MatrixShuffle.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\14.MatrixShuffle\obj\Debug\14.MatrixShuffle.pdb

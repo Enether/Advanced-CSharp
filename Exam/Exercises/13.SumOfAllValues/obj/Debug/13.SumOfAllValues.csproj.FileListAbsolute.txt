@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\13.SumOfAllValues\bin\Debug\13.SumOfAllValues.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\13.SumOfAllValues\bin\Debug\13.SumOfAllValues.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\13.SumOfAllValues\bin\Debug\13.SumOfAllValues.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\13.SumOfAllValues\obj\Debug\13.SumOfAllValues.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\13.SumOfAllValues\obj\Debug\13.SumOfAllValues.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Exam\Exercises\13.SumOfAllValues\obj\Debug\13.SumOfAllValues.pdb

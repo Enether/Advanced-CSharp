@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\07.QueryMess(star)\bin\Debug\07.QueryMess(star).exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\07.QueryMess(star)\obj\Debug\07.QueryMess(star).csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\07.QueryMess(star)\bin\Debug\07.QueryMess(star).exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\07.QueryMess(star)\bin\Debug\07.QueryMess(star).pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\07.QueryMess(star)\obj\Debug\07.QueryMess(star).exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Regular Expressions\Homework\07.QueryMess(star)\obj\Debug\07.QueryMess(star).pdb

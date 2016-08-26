@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Exercises\01.CleanUpTheMess\bin\Debug\01.CleanUpTheMess.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Exercises\01.CleanUpTheMess\bin\Debug\01.CleanUpTheMess.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Exercises\01.CleanUpTheMess\bin\Debug\01.CleanUpTheMess.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Exercises\01.CleanUpTheMess\obj\Debug\01.CleanUpTheMess.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Exercises\01.CleanUpTheMess\obj\Debug\01.CleanUpTheMess.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Files and Streams\Exercises\01.CleanUpTheMess\obj\Debug\01.CleanUpTheMess.pdb

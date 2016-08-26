@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Methods\Methods\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Methods\Methods\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Methods\Methods\06.NumberCalculations\bin\Debug\06.NumberCalculations.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Methods\Methods\06.NumberCalculations\obj\Debug\06.NumberCalculations.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Methods\Methods\06.NumberCalculations\obj\Debug\06.NumberCalculations.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Methods\Methods\06.NumberCalculations\obj\Debug\06.NumberCalculations.pdb

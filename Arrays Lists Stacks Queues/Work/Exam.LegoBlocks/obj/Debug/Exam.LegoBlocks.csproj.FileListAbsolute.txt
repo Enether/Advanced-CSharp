@@ -1,0 +1,6 @@
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\Exam.LegoBlocks\bin\Debug\Exam.LegoBlocks.exe.config
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\Exam.LegoBlocks\bin\Debug\Exam.LegoBlocks.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\Exam.LegoBlocks\bin\Debug\Exam.LegoBlocks.pdb
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\Exam.LegoBlocks\obj\Debug\Exam.LegoBlocks.csprojResolveAssemblyReference.cache
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\Exam.LegoBlocks\obj\Debug\Exam.LegoBlocks.exe
+D:\C# PRODUCTIONS\SoftUni\Advanced CSharp\Arrays Lists Stacks Queues\Work\Exam.LegoBlocks\obj\Debug\Exam.LegoBlocks.pdb
